@@ -2,7 +2,7 @@
 
 It's basically a touch screen without the screen.
 
-Instead of touching the screen, we just do gestures in the air. the software tracks 21 landmark points on the hand and will decide the desired operation to be performed according to pre-defined conditions
+Instead of touching the screen, we just do gestures in the air. the software tracks 21 landmark points on the hand and will decide the desired operation to be performed according to pre-defined conditions.
 
 ### Scrolling: <br>
 Activates this mode when the index and middle fingers are held together. The screen will then follow the position of the index fingertip.
